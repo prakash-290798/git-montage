@@ -1,3 +1,2 @@
 # Git Montage 
-B
-A
+C
